@@ -1,9 +1,9 @@
 {
-  "name": "Catppuccin Mocha - Mauve",
-  "description": "Soothing pastel theme for the high-spirited!",
+  "name": "Base16",
+  "description": "Simple theme based on Base16 colors.",
   "authors": [
     {
-      "name": "Catppuccin"
+      "name": "Sarp (fake) aka Annie"
     }
   ],
   "semanticColors": {
@@ -32,18 +32,18 @@
     "CHANNEL_ICON": [ "#908caa", "#908caa" ],
     "CHANNELS_DEFAULT": [ "#908caa", "#908caa" ],
     "CHAT_BACKGROUND": [ "#191724", "#191724" ],
-    "HEADER_PRIMARY": [ "#6e6a86", "#6e6a86" ],
+    "HEADER_PRIMARY": [ "#908caa", "#908caa" ],
     "HEADER_SECONDARY": [ "#908caa", "#908caa" ],
     "INPUT_BACKGROUND": [ "#1f1d2e", "#1f1d2e" ],
     "INTERACTIVE_ACTIVE": [ "#aba7e0", "#aba7e0" ],
     "INTERACTIVE_HOVER": [ "#aba7e0", "#aba7e0" ],
     "INTERACTIVE_MUTED": [ "#74728d", "#74728d" ],
-    "INTERACTIVE_NORMAL": [ "#6e6a86", "#6e6a86" ],
+    "INTERACTIVE_NORMAL": [ "#908caa", "#908caa" ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#1f1d2e", "#1f1d2e" ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#6e6a86", "#6e6a86" ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#1f1d2e", "#1f1d2e" ],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#6e6a86", "#6e6a86" ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [ "#6e6a86", "#6e6a86" ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#908caa", "#908caa" ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [ "#908caa", "#908caa" ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1f1d2e", "#1f1d2e" ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [ "#524f67", "#524f67" ],
     "TEXT_LINK": [ "#adaad4", "#adaad4" ],
